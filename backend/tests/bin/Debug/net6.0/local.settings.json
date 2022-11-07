@@ -1,8 +1,0 @@
-{
-    "IsEncrypted": false,
-    "Values": {
-        "AzureWebJobsStorage": "",
-        "FUNCTIONS_WORKER_RUNTIME": "dotnet",
-        "AzureResumeConnectionString":"AccountEndpoint=https://azureresume-jonathansmith.documents.azure.com:443/;AccountKey=iRUald1eR45ILDFzUZOHPTZ901ZxjvDDMTv58N4ZO658jr0cDYoPZel8yBzy031SSL91uqYAXqsh2jJzc7clRg==;",
-    }
-}
